@@ -1,7 +1,7 @@
 <h1>Sorteio amigo secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, a idéia é simular um site onde é possível inserir uma lista de amigos e realizar um sorterio de amnigo secreto.</p>
 
 ## 🚀 Tecnologias
 <div>
